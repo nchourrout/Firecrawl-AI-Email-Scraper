@@ -9,7 +9,7 @@ For more insights on Firecrawl and on how this scraper was developed, read this 
 
 Install required libraries
 ```
-pip install firecrawl pydantic pandas unidecode
+pip install firecrawl-py pydantic pandas unidecode
 ```
 
 Set up your Firecrawl API Key (first 300 credits are free)
