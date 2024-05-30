@@ -3,7 +3,7 @@ Using [firecrawl.dev](https://firecrawl.dev), this script can search the web and
 
 
 ## Blog Post
-For more insights on Firecrawl and on how this scraper was developed, read this [detailed blog post]().
+For more insights on Firecrawl and on how this scraper was developed, read this [detailed blog post](https://medium.com/@nchourrout/build-an-ai-scraper-in-50-lines-of-code-with-firecrawl-a811d4cdf7d1).
 
 ## Installation
 
